@@ -198,8 +198,8 @@ Three interactive dashboards were created in Tableau to provide comprehensive in
 - **Visuals**:
   - Doctor Specialization Distribution (Tree Map)
   - Experience Level (Donut Chart)
-  - Patient Load by Specialization
-  - Top 10 Doctors by Success Rate
+  - Patient Load by Specialization (Column Chart)
+  - Top 10 Doctors by Success Rate (Text Table)
 ---
 ### 6. Dashboard Navigation
 **Interactive navigation buttons** were added to ensure users could easily switch between the three dashboards, providing a **seamless experience**. These buttons allowed users to quickly navigate between:
@@ -233,7 +233,7 @@ This **cross-verification process** confirmed that the **data visualizations in 
 
 ### 🏥 **Visit Behavior**
 - Top visit reasons: **Flu**, **Chronic Pain**, **Routine Checkups**, **Emergency**.
-- Avg ~400 visits/month. Peaks in **August 2023**, dip in **March 2025** (likely due to seasonal or systemic factors).
+- Avg ~400 visits/month. Peaks in **August month** (likely due to seasonal or systemic factors).
 - ~**33% cancellations** → Need for better **appointment management**.
 
 ### 🧪 **Diagnostics & Treatment**
