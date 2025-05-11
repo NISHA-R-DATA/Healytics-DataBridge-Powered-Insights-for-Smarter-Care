@@ -73,7 +73,7 @@ The project utilizes five datasets:
 
 ---
 
-## Tools and Technologies Used
+## 🛠️ Tools and Technologies Used
 
 | Tool/Technology       | Purpose                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
