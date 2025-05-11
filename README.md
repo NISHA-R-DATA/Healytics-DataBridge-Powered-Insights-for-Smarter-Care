@@ -78,9 +78,9 @@ The project utilizes five datasets:
 | Tool/Technology       | Purpose                                                                 |
 |-----------------------|-------------------------------------------------------------------------|
 | Excel                 | Initial data cleaning, deduplication, and formatting                    |
-| Power Query (Power BI) | Column type transformations, custom fields, and data enrichment         |
-| MySQL                 | Data validation (consistency, completeness, duplicates, joins)         |
-| Tableau         | Dashboard development, relationship modeling, and calculated fields.    |
+| Power Query  | Column type transformations, custom fields, and data enrichment         |
+| MySQL                 | Data validation (consistency, completeness, duplicates)         |
+| Tableau         | Dashboard development, relationship modeling, and calculated fields   |
 
 ---
 
