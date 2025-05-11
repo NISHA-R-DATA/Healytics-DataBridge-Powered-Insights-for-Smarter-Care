@@ -39,20 +39,20 @@ Click the link below to explore the interactive Tableau dashboard:
 
 ---
 ## 📑 Table of Contents
-1. [Business Problem]()
-2. [Dataset Overview]()
-3. [Tools and Technologies Used]()
-4. [Approach]()
-    - [Data Cleaning & Transformation]()
-    - [SQL Data Quality Checks]()
-    - [Tableau Relationships]()
-    - [Tableau Calculated Fields]()
-    - [Dashboard Creation]()
-    - [Dashboard Navigation]()
-    - [Data Validation and Cross-Verification]()
-5. [Key Insights]()
-6. [Recommendations]()
-7. [Conclusion]()
+1. [Business Problem](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-business-problem)
+2. [Dataset Overview](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-dataset-overview)
+3. [Tools and Technologies Used](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#%EF%B8%8F-tools-and-technologies-used)
+4. [Approach](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-approach)
+    - [Data Cleaning & Transformation](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#1-data-cleaning--transformation)
+    - [SQL Data Quality Checks](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#2-sql-data-quality-checks)
+    - [Tableau Relationships](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#3-tableau-relationships)
+    - [Tableau Calculated Fields](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#4-tableau-calculated-fields)
+    - [Dashboard Creation](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#5-dashboard-creation)
+    - [Dashboard Navigation](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#6-dashboard-navigation)
+    - [Data Validation and Cross-Verification](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#7-data-validation-and-cross-verification)
+5. [Key Insights](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-key-insights)
+6. [Recommendations](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-recommendations)
+7. [Conclusion](https://github.com/NISHA-R-DATA/Healytics-DataBridge-Powered-Insights-for-Smarter-Care?tab=readme-ov-file#-conclusion)
 
 ---
 
