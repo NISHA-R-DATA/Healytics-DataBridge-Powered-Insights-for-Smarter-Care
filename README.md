@@ -80,11 +80,11 @@ The project utilizes five datasets:
 | Excel                 | Initial data cleaning, deduplication, and formatting                    |
 | Power Query (Power BI) | Column type transformations, custom fields, and data enrichment         |
 | MySQL                 | Data validation (consistency, completeness, duplicates, joins)         |
-| Tableau Public        | Dashboard development, relationship modeling, and calculated fields.    |
+| Tableau         | Dashboard development, relationship modeling, and calculated fields.    |
 
 ---
 
-## Approach
+## 📊 Approach
 
 ### 1. Data Cleaning & Transformation
 - **Excel Preprocessing**: Duplicate and irrelevant columns were removed.
@@ -130,14 +130,14 @@ SELECT LabResultID, COUNT(*) FROM labresult GROUP BY LabResultID HAVING COUNT(*)
 ```
 ---
 ### 3. Tableau Relationships
-After cleaning and validating the data, it was loaded into Tableau Public. Relationships between tables were established based on common fields.This setup allowed for seamless integration of data across multiple tables, enabling holistic analysis of patient demographics, treatment details, and doctor performance.
+After **cleaning** and **validating** the data, it was loaded into **Tableau**. **Relationships between tables** were established based on **common fields**.This setup allowed for **seamless integration** of data across multiple tables, enabling **holistic analysis** of **patient demographics**, **treatment details**, and **doctor performance**.
 
 ![relation](https://github.com/user-attachments/assets/a6e69c04-be58-464b-a73e-1d98ef2551d8)
 
 
 ---
 ### 4. Tableau Calculated Fields
-Calculated fields in Tableau were used to create key performance indicators (KPIs) for the dashboards:
+**Calculated fields** in Tableau were used to create **key performance indicators (KPIs)** for the dashboards:
 
  •	**Follow-up Rate**:
 ```tableau
@@ -202,16 +202,16 @@ Three interactive dashboards were created in Tableau to provide comprehensive in
   - Top 10 Doctors by Success Rate
 ---
 ### 6. Dashboard Navigation
-Interactive navigation buttons were added to ensure users could easily switch between the three dashboards, providing a seamless experience. These buttons allowed users to quickly navigate between:
+**Interactive navigation buttons** were added to ensure users could easily switch between the three dashboards, providing a **seamless experience**. These buttons allowed users to quickly navigate between:
 - **Patient Demographics & Visit Overview**
 - **Testing, Diagnosis & Treatment Overview**
 - **Doctor Overview**
 
-This navigation feature unified the dashboards, allowing users to explore all facets of the healthcare data within a single, integrated platform.
+This **navigation feature** unified the dashboards, allowing users to explore all facets of the **healthcare data** within a **single**, **integrated platform**.
 
 ---
 ### 7. Data Validation and Cross-Verification
-After building the dashboards, data values were cross-verified with MySQL queries (dashboard aggregation check) to ensure the integrity of the visualizations. For instance:
+After building the dashboards, **data values** were **cross-verified with MySQL queries (dashboard aggregation check)** to ensure the **integrity of the visualizations**. For instance:
 - **Total number of patients** shown in the dashboard was verified by running:
 ```sql
 SELECT COUNT(*) FROM patient;
@@ -220,7 +220,7 @@ SELECT COUNT(*) FROM patient;
 ```sql
 SELECT AVG([Treatment Cost]) FROM treatments AS treatment_cost_per_visit;
 ```
-This cross-verification process confirmed that the data visualizations in Tableau were accurate and consistent with the underlying data. The dashboards are fully validated and can now be reliably used for healthcare analysis.
+This **cross-verification process** confirmed that the **data visualizations in Tableau** were **accurate** and **consistent** with the underlying data. The dashboards are **fully validated** and can now be reliably used for **healthcare analysis**.
 
 ---
 
@@ -283,7 +283,7 @@ This cross-verification process confirmed that the data visualizations in Tablea
    - Scale up outreach in **TX**, **CA**, **FL**.
    - Align **inventory** and **staffing** to regional health trends.
 ---
-## Conclusion
+## 🏁 Conclusion
 
 **Healytics** transforms complex healthcare data into clear, actionable intelligence through dynamic, well-structured dashboards. By connecting **patient demographics**, **test results**, **doctor performance**, and **treatment patterns**, it offers a **360° view** of healthcare delivery. This enables stakeholders to detect inefficiencies, monitor **key metrics**, and act swiftly on emerging trends.
 
